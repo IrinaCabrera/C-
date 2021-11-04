@@ -1,0 +1,13 @@
+C:\Users\Irina\source\repos\ejerciciosPog3\ejercicios\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.csprojAssemblyReference.cache
+C:\Users\Irina\source\repos\ejerciciosPog3\ejercicios\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.AssemblyInfoInputs.cache
+C:\Users\Irina\source\repos\ejerciciosPog3\ejercicios\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.AssemblyInfo.cs
+C:\Users\Irina\source\repos\ejerciciosPog3\ejercicios\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Irina\source\repos\ejerciciosPog3\ejercicios\ejercicios\bin\Debug\netcoreapp3.1\ejercicios.exe
+C:\Users\Irina\source\repos\ejerciciosPog3\ejercicios\ejercicios\bin\Debug\netcoreapp3.1\ejercicios.deps.json
+C:\Users\Irina\source\repos\ejerciciosPog3\ejercicios\ejercicios\bin\Debug\netcoreapp3.1\ejercicios.runtimeconfig.json
+C:\Users\Irina\source\repos\ejerciciosPog3\ejercicios\ejercicios\bin\Debug\netcoreapp3.1\ejercicios.runtimeconfig.dev.json
+C:\Users\Irina\source\repos\ejerciciosPog3\ejercicios\ejercicios\bin\Debug\netcoreapp3.1\ejercicios.dll
+C:\Users\Irina\source\repos\ejerciciosPog3\ejercicios\ejercicios\bin\Debug\netcoreapp3.1\ejercicios.pdb
+C:\Users\Irina\source\repos\ejerciciosPog3\ejercicios\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.dll
+C:\Users\Irina\source\repos\ejerciciosPog3\ejercicios\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.pdb
+C:\Users\Irina\source\repos\ejerciciosPog3\ejercicios\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.genruntimeconfig.cache

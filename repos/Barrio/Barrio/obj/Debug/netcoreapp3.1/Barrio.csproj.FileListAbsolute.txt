@@ -1,0 +1,13 @@
+C:\Users\Irina\source\repos\Barrio\Barrio\bin\Debug\netcoreapp3.1\Barrio.exe
+C:\Users\Irina\source\repos\Barrio\Barrio\bin\Debug\netcoreapp3.1\Barrio.deps.json
+C:\Users\Irina\source\repos\Barrio\Barrio\bin\Debug\netcoreapp3.1\Barrio.runtimeconfig.json
+C:\Users\Irina\source\repos\Barrio\Barrio\bin\Debug\netcoreapp3.1\Barrio.runtimeconfig.dev.json
+C:\Users\Irina\source\repos\Barrio\Barrio\bin\Debug\netcoreapp3.1\Barrio.dll
+C:\Users\Irina\source\repos\Barrio\Barrio\bin\Debug\netcoreapp3.1\Barrio.pdb
+C:\Users\Irina\source\repos\Barrio\Barrio\obj\Debug\netcoreapp3.1\Barrio.csprojAssemblyReference.cache
+C:\Users\Irina\source\repos\Barrio\Barrio\obj\Debug\netcoreapp3.1\Barrio.AssemblyInfoInputs.cache
+C:\Users\Irina\source\repos\Barrio\Barrio\obj\Debug\netcoreapp3.1\Barrio.AssemblyInfo.cs
+C:\Users\Irina\source\repos\Barrio\Barrio\obj\Debug\netcoreapp3.1\Barrio.csproj.CoreCompileInputs.cache
+C:\Users\Irina\source\repos\Barrio\Barrio\obj\Debug\netcoreapp3.1\Barrio.dll
+C:\Users\Irina\source\repos\Barrio\Barrio\obj\Debug\netcoreapp3.1\Barrio.pdb
+C:\Users\Irina\source\repos\Barrio\Barrio\obj\Debug\netcoreapp3.1\Barrio.genruntimeconfig.cache

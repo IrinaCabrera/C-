@@ -1,0 +1,13 @@
+C:\Users\Irina\source\repos\practicaProg3\practicaProg3\bin\Debug\netcoreapp3.1\practicaProg3.exe
+C:\Users\Irina\source\repos\practicaProg3\practicaProg3\bin\Debug\netcoreapp3.1\practicaProg3.deps.json
+C:\Users\Irina\source\repos\practicaProg3\practicaProg3\bin\Debug\netcoreapp3.1\practicaProg3.runtimeconfig.json
+C:\Users\Irina\source\repos\practicaProg3\practicaProg3\bin\Debug\netcoreapp3.1\practicaProg3.runtimeconfig.dev.json
+C:\Users\Irina\source\repos\practicaProg3\practicaProg3\bin\Debug\netcoreapp3.1\practicaProg3.dll
+C:\Users\Irina\source\repos\practicaProg3\practicaProg3\bin\Debug\netcoreapp3.1\practicaProg3.pdb
+C:\Users\Irina\source\repos\practicaProg3\practicaProg3\obj\Debug\netcoreapp3.1\practicaProg3.csprojAssemblyReference.cache
+C:\Users\Irina\source\repos\practicaProg3\practicaProg3\obj\Debug\netcoreapp3.1\practicaProg3.AssemblyInfoInputs.cache
+C:\Users\Irina\source\repos\practicaProg3\practicaProg3\obj\Debug\netcoreapp3.1\practicaProg3.AssemblyInfo.cs
+C:\Users\Irina\source\repos\practicaProg3\practicaProg3\obj\Debug\netcoreapp3.1\practicaProg3.csproj.CoreCompileInputs.cache
+C:\Users\Irina\source\repos\practicaProg3\practicaProg3\obj\Debug\netcoreapp3.1\practicaProg3.dll
+C:\Users\Irina\source\repos\practicaProg3\practicaProg3\obj\Debug\netcoreapp3.1\practicaProg3.pdb
+C:\Users\Irina\source\repos\practicaProg3\practicaProg3\obj\Debug\netcoreapp3.1\practicaProg3.genruntimeconfig.cache

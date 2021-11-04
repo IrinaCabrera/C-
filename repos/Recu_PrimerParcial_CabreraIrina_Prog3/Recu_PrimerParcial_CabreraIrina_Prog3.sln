@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recu_PrimerParcial_CabreraIrina_Prog3", "Recu_PrimerParcial_CabreraIrina_Prog3\Recu_PrimerParcial_CabreraIrina_Prog3.csproj", "{C6592FBD-3010-4670-8BB7-EBC5C229637B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6592FBD-3010-4670-8BB7-EBC5C229637B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6592FBD-3010-4670-8BB7-EBC5C229637B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6592FBD-3010-4670-8BB7-EBC5C229637B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6592FBD-3010-4670-8BB7-EBC5C229637B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7E40C41-6B5C-445B-BF6F-3D8EA6FBC8C7}
+	EndGlobalSection
+EndGlobal

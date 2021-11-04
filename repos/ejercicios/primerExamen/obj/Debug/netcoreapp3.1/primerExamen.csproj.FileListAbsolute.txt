@@ -1,0 +1,13 @@
+C:\Users\Irina\source\repos\ejercicios\primerExamen\bin\Debug\netcoreapp3.1\primerExamen.exe
+C:\Users\Irina\source\repos\ejercicios\primerExamen\bin\Debug\netcoreapp3.1\primerExamen.deps.json
+C:\Users\Irina\source\repos\ejercicios\primerExamen\bin\Debug\netcoreapp3.1\primerExamen.runtimeconfig.json
+C:\Users\Irina\source\repos\ejercicios\primerExamen\bin\Debug\netcoreapp3.1\primerExamen.runtimeconfig.dev.json
+C:\Users\Irina\source\repos\ejercicios\primerExamen\bin\Debug\netcoreapp3.1\primerExamen.dll
+C:\Users\Irina\source\repos\ejercicios\primerExamen\bin\Debug\netcoreapp3.1\primerExamen.pdb
+C:\Users\Irina\source\repos\ejercicios\primerExamen\obj\Debug\netcoreapp3.1\primerExamen.csprojAssemblyReference.cache
+C:\Users\Irina\source\repos\ejercicios\primerExamen\obj\Debug\netcoreapp3.1\primerExamen.AssemblyInfoInputs.cache
+C:\Users\Irina\source\repos\ejercicios\primerExamen\obj\Debug\netcoreapp3.1\primerExamen.AssemblyInfo.cs
+C:\Users\Irina\source\repos\ejercicios\primerExamen\obj\Debug\netcoreapp3.1\primerExamen.csproj.CoreCompileInputs.cache
+C:\Users\Irina\source\repos\ejercicios\primerExamen\obj\Debug\netcoreapp3.1\primerExamen.dll
+C:\Users\Irina\source\repos\ejercicios\primerExamen\obj\Debug\netcoreapp3.1\primerExamen.pdb
+C:\Users\Irina\source\repos\ejercicios\primerExamen\obj\Debug\netcoreapp3.1\primerExamen.genruntimeconfig.cache

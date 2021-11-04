@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Recu_PrimerParcial_CabreraIrina_Prog3/1.0.0": {
+        "runtime": {
+          "Recu_PrimerParcial_CabreraIrina_Prog3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recu_PrimerParcial_CabreraIrina_Prog3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
